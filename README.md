@@ -14,6 +14,10 @@ I build dependable backend systems and open-source tools for data movement, deve
 
 ### Data infrastructure · Ruby and PostgreSQL
 
+### Ruby concurrency
+
+- **[Ratomic](https://github.com/mperham/ratomic)** — Co-author and current maintainer of a Ruby library providing Ractor-safe mutable data structures, including shared concurrent primitives and ownership-aware pools.
+
 - **[Mammoth](https://github.com/kanutocd/mammoth)** — The open-source data plane of a broader private Mammoth platform project. It relays PostgreSQL logical-replication events for reliable downstream delivery, with durable checkpoints, retry and dead-letter recovery, and operational visibility.
 - **[CDC Ecosystem](https://github.com/kanutocd/cdc-core)** — Composable Ruby libraries for PostgreSQL replication transport, protocol parsing, decoding, normalized events, concurrent runtimes, and job-queue integrations. Start with [`cdc-core`](https://github.com/kanutocd/cdc-core), [`cdc-sidekiq`](https://github.com/kanutocd/cdc-sidekiq), or [`cdc-solid-queue`](https://github.com/kanutocd/cdc-solid-queue).
 
