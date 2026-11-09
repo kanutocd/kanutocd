@@ -32,6 +32,18 @@ I build dependable backend systems and open-source tools for data movement, deve
 - **[Spherical Mammoth](https://github.com/kanutocd/spherical-mammoth)** — Cloud-native reference SaaS for deploying and operating Mammoth across local Kubernetes and managed cloud environments.
 - **[poorman-aws](https://github.com/kanutocd/poorman-aws)** — Reusable, cost-conscious AWS infrastructure and release workflows built with OpenTofu, Packer, and GitHub Actions.
 
+## Selected upstream contributions
+
+Small contributions across established Ruby projects:
+
+- [`ruby/time`](https://github.com/ruby/time) — [commit 1](https://github.com/ruby/time/commit/ada62114ab3077994b8eb4856a6cffe56ea0f88a), [commit 2](https://github.com/ruby/time/commit/2b43839fc28ad6cdaa56c9a1a0a6e28986b3cf06), [commit 3](https://github.com/ruby/time/commit/8be241ed7cd4954f01f60e58d940e08b5da61899)
+- [`ruby/ruby`](https://github.com/ruby/ruby) — [commit](https://github.com/ruby/ruby/commit/8ff8963995e6df14c0ec589a526a268dde4b9cc5)
+- [`rubycdp/ferrum`](https://github.com/rubycdp/ferrum) — [commit 1](https://github.com/rubycdp/ferrum/commit/f9fea5748303ae7ec7d585406841d3ba1cc62a05), [commit 2](https://github.com/rubycdp/ferrum/commit/dd292cfbcebd5a1bb9bdf528d34efebd051a7089), [commit 3](https://github.com/rubycdp/ferrum/commit/5370021038bfe307e5e2520b9c93678d49d22d61)
+
+## Upstream design discussions
+
+- Followed a proposal from [`kino #4`](https://github.com/yaroslav/kino/pull/4) into [`rb-sys #748`](https://github.com/oxidize-rb/rb-sys/pull/748), then discussed it with Ruby core maintainers in [`ruby/ruby #17975`](https://github.com/ruby/ruby/pull/17975). The rb-sys PR was closed after those discussions.
+
 ## Open-source distribution
 
 I publish and maintain software across the ecosystems I build for:
