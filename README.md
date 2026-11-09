@@ -28,7 +28,7 @@ I build dependable backend systems and open-source tools for data movement, deve
 
 ### Rust, edge systems, and cloud platforms
 
-- **Taytay (`lunsaran-taytay`)** — Publicly published Rust crate and Linux edge bridge within the broader private Lunsaran platform, supporting durable, resumable uploads. The public [USB Camera Taytay](https://github.com/kanutocd/usb-camera-taytay) application is a reference app for both Taytay and Sandbox Loom. [Crate](https://crates.io/crates/lunsaran-taytay) · [Other published Rust crates](https://crates.io/users/kanutocd)
+- **Taytay (`lunsaran-taytay`)** — Publicly published Rust crate and Linux edge bridge within the broader private Lunsaran platform, supporting durable, resumable uploads. The public [USB Camera Taytay](https://github.com/kanutocd/usb-camera-taytay) application is a reference app for both Taytay and Sandbox Loom. [Crate](https://crates.io/crates/lunsaran-taytay) · [JavaScript SDK](https://www.npmjs.com/package/@lunsaran/entregar) · [Other published Rust crates](https://crates.io/users/kanutocd)
 - **[Spherical Mammoth](https://github.com/kanutocd/spherical-mammoth)** — Cloud-native reference SaaS for deploying and operating Mammoth across local Kubernetes and managed cloud environments.
 - **[poorman-aws](https://github.com/kanutocd/poorman-aws)** — Reusable, cost-conscious AWS infrastructure and release workflows built with OpenTofu, Packer, and GitHub Actions.
 
